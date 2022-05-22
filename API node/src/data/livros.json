@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "autor": "Charles Duhigg",
+        "title": "O Poder do Hábito",
+        "url": "https://www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119"
+    },
+    {
+        "id": "2",
+        "autor": "CAROL S. DWECK",
+        "title": "Mindset",
+        "url": "https://www.amazon.com.br/Mindset-Carol-S-Dweck/dp/8547000240/ref=pd_lpo_1?pd_rd_i=8547000240&psc=1"
+    },
+    {
+        "id": "3",
+        "autor": "DANIEL GOLEMAN",
+        "title": "Inteligência emocional",
+        "url": "https://www.amazon.com.br/Intelig%C3%AAncia-emocional-Daniel-Goleman/dp/8573020806/ref=pd_sim_sccl_3_5/141-5371541-7026212?psc=1" 
+    },
+    {
+        "id": "4",
+        "autor": "Paulo Vieira",
+        "title": "O poder da ação",
+        "url": "https://www.amazon.com.br/poder-a%C3%A7%C3%A3o-Paulo-Vieira/dp/854520034X/ref=pd_sim_sccl_3_18/141-5371541-7026212?X&psc=1"
+    },
+    {
+        "id": "5",
+        "autor": "Suzanne Collins",
+        "title": "jogos vorazes",
+        "url": "https://www.amazon.com.br/Jogos-Vorazes-Trilogia-Suzanne-Collins/dp/8532503292"
+    },
+    {
+        "id": "6",
+        "autor": "Becca Fitzpatrick",
+        "title": "Hush, Hush",
+        "url": "https://www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119"
+    },
+    {
+        "id": "7",
+        "autor": "George R. R. Martin",
+        "title": "A Guerra dos Tronos : As Crônicas de Gelo e Fogo",
+        "url": "https://www.amazon.com.br/Guerra-dos-Tronos-Cr%C3%B4nicas-Gelo/dp/8556510787/ref=asc_df_8556510787/?tag=googleshopp00-20&&psc=1"
+    }  
+  ]
